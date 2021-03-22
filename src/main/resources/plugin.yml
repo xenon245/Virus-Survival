@@ -1,0 +1,5 @@
+name: Virus-Survival
+version: 1.0
+main: com.github.monulo.virus.VirusPlugin
+api-version: 1.16
+depend: [Kotlin]
